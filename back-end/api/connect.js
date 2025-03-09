@@ -2,7 +2,7 @@ import { MongoClient } from "mongodb";
 
 const URI = "myURI"
 
-//Xw4f6V2XgqbWQaAU
+
 
 const client = new MongoClient(URI);
 
